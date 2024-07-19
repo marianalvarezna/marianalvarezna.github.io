@@ -1,0 +1,209 @@
+a {
+    text-decoration: none;
+    color: rgb(104, 5, 197);
+}
+
+img{
+    width: 280px;
+    border-radius: 10%;
+}
+
+.indice {
+    padding: 25px;
+    background-color: #a2a2f9;
+}
+
+.titulo {
+    padding: 50px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.imagen {
+    padding-top: 50px;
+    background-color: #a2a2f9;
+}
+
+.imagen-text {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.minutos {
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.click {
+    padding-bottom: 50px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.img1 {
+    max-width: 350px;
+    padding: 60px 40px;
+    background: #8a8afd;
+    border-radius: 20px;
+    margin: 14px;
+    letter-spacing: 3px;
+    line-height: 2px;
+    text-align: center;
+}
+
+.img1:hover {
+    border: 1px solid transparent;
+    box-shadow: 0px 6px 50px -20px rgba(0, 0, 0, 0.505);
+}
+
+.img2 {
+    max-width: 350px;
+    padding: 60px 40px;
+    background: #8a8afd;
+    border-radius: 20px;
+    margin: 14px;
+    letter-spacing: 3px;
+    line-height: 2px;
+    text-align: center;
+}
+
+.img2:hover {
+    border: 1px solid transparent;
+    box-shadow: 0px 6px 50px -20px rgba(0, 0, 0, 0.505);
+}
+
+.img3 {
+    max-width: 350px;
+    padding: 60px 40px;
+    background: #8a8afd;
+    border-radius: 20px;
+    margin: 14px;
+    letter-spacing: 3px;
+    line-height: 2px;
+    text-align: center;
+}
+
+.img3:hover {
+    border: 1px solid transparent;
+    box-shadow: 0px 6px 50px -20px rgba(0, 0, 0, 0.505);
+}
+
+.lista {
+    padding-top: 50px;
+    background-color: #ffffff;
+}
+
+.titulo-lista {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.cosas {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.cosatuya {
+    max-width: 350px;
+    padding: 40px 20px;
+    border: 1px solid #e6e6e6;
+    border-radius: 20px;
+    margin: 14px;
+}
+
+.cosatuya:hover {
+    border: 1px solid transparent;
+    box-shadow: 0px 6px 50px -20px rgba(0, 0, 0, 0.505);
+}
+
+.cosamia {
+    max-width: 350px;
+    padding: 40px 20px;
+    border: 1px solid #e6e6e6;
+    border-radius: 20px;
+    margin: 14px;
+}
+
+.cosamia:hover {
+    border: 1px solid transparent;
+    box-shadow: 0px 6px 50px -20px rgba(0, 0, 0, 0.505);
+}
+
+.carta {
+    padding: 50px;
+    text-align: center;
+    background: #a2a2f9;
+}
+
+.gustos {
+    padding-top: 50px;
+    background-color: #ffffff;
+}
+
+.conta-gustos {
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+    padding: 0px 20px;
+}
+
+.titulo-gustos {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.img-gustos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+
+.fotos {
+    max-width: 350px;
+    padding: 20px 10px;
+    border: 1px solid #e6e6e6;
+    border-radius: 20px;
+    margin: 14px;
+    letter-spacing: 3px;
+    line-height: 2px;
+    transition: all 300ms;
+}
+
+.fotos:hover {
+    border: 1px solid transparent;
+    box-shadow: 0px 6px 50px -20px rgba(0, 0, 0, 0.505);
+}
+
+.final {
+    padding: 50px;
+    text-align: center;
+    background: #a2a2f9;
+}
+
+.canciones {
+    padding: 50px;
+    background: #a2a2f9;
+}
+
+.canciones h2 {
+    text-align: center;
+}
+
+.preguntas {
+    padding: 50px;
+    background-color: #ffffff;
+}
+
+.preguntas h2 {
+    text-align: center;
+}
